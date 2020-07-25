@@ -27,3 +27,5 @@
 
 ![](/images/2020-07-17-20-06-20.png)
 
+![](../home/user/projects/py_family/images/2020-07-22-20-49-17.png)
+
